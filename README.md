@@ -1,2 +1,4 @@
-# cloudflare-telegram-worker
-Cloudflare Worker for Telegram profile integration and workspace update notifications.
+
+# Workspace Telegram Worker
+
+A Cloudflare Worker that handles Telegram integration for the Workspace web application.
