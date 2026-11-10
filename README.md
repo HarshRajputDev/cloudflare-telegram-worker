@@ -48,3 +48,4 @@ A cron trigger runs every 15 minutes to check saved agendas and deliver daily ta
 ## License
 
 [MIT](LICENSE)
+
